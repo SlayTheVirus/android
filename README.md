@@ -11,5 +11,3 @@ Undeciumus iOS jailbreak 3.0.0
 
 #### result (20).wav
 Open in a spectrogram for suprise!
-
-#### 
