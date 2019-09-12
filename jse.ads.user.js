@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match        https://github.com/SlayTheVirus/Files/new/master
+// @match        https://*/
 // @grant        none
 // ==/UserScript==
 
