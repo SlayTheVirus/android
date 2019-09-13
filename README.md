@@ -11,3 +11,12 @@ Undeciumus iOS jailbreak 3.0.0
 
 #### result (20).wav
 Open in a spectrogram for surprise!
+
+#### bruh.mp3
+bruh
+
+#### jse.ads.user.js
+userscript for enabling JSECoin monetization on all sites
+
+#### jse.user.js
+same as jse.ads.user.js but without ads
