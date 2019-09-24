@@ -2,7 +2,7 @@
 // @name         JSE
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  Enables JSECoin Monetization Without Ads
 // @author       SlayTheVirus
 // @match        https://*/*
 // @grant        none
