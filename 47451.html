@@ -117,7 +117,7 @@ function waitForLoad() {
 }
 
 
-victim_url = 'data:text/html,<h1>secret data</h1><script>alert("XSS'ed")<input autofocus>';
+victim_url = 'data:text/html,<h1>secret data</h1><script>alert('XSS')<input autofocus>';
 
 cache_frame = document.body.appendChild(document.createElement('iframe'));
 cache_frame.src = victim_url;
